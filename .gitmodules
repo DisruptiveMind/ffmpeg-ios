@@ -1,3 +1,6 @@
 [submodule "build-script"]
 	path = build-script
 	url = https://github.com/kewlbear/FFmpeg-iOS-build-script
+[submodule "gas-preprocessor"]
+	path = gas-preprocessor
+	url = https://github.com/libav/gas-preprocessor
